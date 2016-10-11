@@ -1,0 +1,50 @@
+body {
+  background-color: #363531;
+  color: #FFFFFF;
+}
+
+.container {
+  width: 600px;
+  border: #CCCCCC 3px solid;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.txt-center {
+    text-align:center;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.nav li {
+  list-style: none;
+  display: inline;
+}
+
+.nav {
+    padding: 0;
+}
+
+a {
+  color: #57B565;
+}
+
+.divider {
+  border-top: #CCCCCC 3px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.gray-text {
+    color: #888888
+}
+.resume-list {
+  list-style-type:square;
+  color:#FFFFFF;
+}
+
+.margin-top {
+  margin-top: 15px;
+}
